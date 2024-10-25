@@ -1,0 +1,3 @@
+[submodule "libs/other"]
+	path = libs/other
+	url = https://github.com/travelgong/submoduleRepository.git
